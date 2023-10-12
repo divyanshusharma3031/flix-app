@@ -43,7 +43,7 @@ function init() {
       displaySlider();
       console.log("home");
       break;
-    case "/shows.html":
+    case "/shows":
       displayPopularTV();
       console.log("shows");
       break;
